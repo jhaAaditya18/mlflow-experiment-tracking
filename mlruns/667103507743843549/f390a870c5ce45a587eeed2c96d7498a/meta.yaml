@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/f390a870c5ce45a587eeed2c96d7498a/artifacts
+end_time: 1737481018896
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: f390a870c5ce45a587eeed2c96d7498a
+run_name: redolent-pig-389
+run_uuid: f390a870c5ce45a587eeed2c96d7498a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737481018812
+status: 3
+tags: []
+user_id: ajha7

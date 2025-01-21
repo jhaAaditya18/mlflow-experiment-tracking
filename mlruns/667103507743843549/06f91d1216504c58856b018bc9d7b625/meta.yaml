@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/06f91d1216504c58856b018bc9d7b625/artifacts
+end_time: 1737480937263
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 06f91d1216504c58856b018bc9d7b625
+run_name: delicate-croc-528
+run_uuid: 06f91d1216504c58856b018bc9d7b625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480937182
+status: 3
+tags: []
+user_id: ajha7

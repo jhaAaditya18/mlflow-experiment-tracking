@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/d24fa70e56c84d00b0a8fd67a7c2da2f/artifacts
+end_time: 1737481018538
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: d24fa70e56c84d00b0a8fd67a7c2da2f
+run_name: amazing-crab-72
+run_uuid: d24fa70e56c84d00b0a8fd67a7c2da2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737481018443
+status: 3
+tags: []
+user_id: ajha7

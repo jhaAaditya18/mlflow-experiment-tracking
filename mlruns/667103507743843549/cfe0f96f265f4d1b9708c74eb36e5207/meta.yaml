@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/cfe0f96f265f4d1b9708c74eb36e5207/artifacts
+end_time: 1737480936829
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: cfe0f96f265f4d1b9708c74eb36e5207
+run_name: aged-horse-227
+run_uuid: cfe0f96f265f4d1b9708c74eb36e5207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480936742
+status: 3
+tags: []
+user_id: ajha7

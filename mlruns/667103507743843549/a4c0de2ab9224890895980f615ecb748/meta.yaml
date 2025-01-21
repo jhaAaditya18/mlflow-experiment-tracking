@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/a4c0de2ab9224890895980f615ecb748/artifacts
+end_time: 1737481096867
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: a4c0de2ab9224890895980f615ecb748
+run_name: colorful-cod-652
+run_uuid: a4c0de2ab9224890895980f615ecb748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737481085657
+status: 3
+tags: []
+user_id: ajha7

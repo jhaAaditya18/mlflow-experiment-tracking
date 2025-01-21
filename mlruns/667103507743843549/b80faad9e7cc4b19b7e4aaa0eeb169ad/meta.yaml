@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/b80faad9e7cc4b19b7e4aaa0eeb169ad/artifacts
+end_time: 1737480936727
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: b80faad9e7cc4b19b7e4aaa0eeb169ad
+run_name: unruly-ram-651
+run_uuid: b80faad9e7cc4b19b7e4aaa0eeb169ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480936632
+status: 3
+tags: []
+user_id: ajha7

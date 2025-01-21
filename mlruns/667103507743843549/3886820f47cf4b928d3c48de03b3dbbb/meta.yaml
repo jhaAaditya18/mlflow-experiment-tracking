@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/3886820f47cf4b928d3c48de03b3dbbb/artifacts
+end_time: 1737481018045
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 3886820f47cf4b928d3c48de03b3dbbb
+run_name: dazzling-grub-166
+run_uuid: 3886820f47cf4b928d3c48de03b3dbbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737481017952
+status: 3
+tags: []
+user_id: ajha7

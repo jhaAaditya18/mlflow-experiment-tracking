@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/d6ff9f016a244449905c691574f134a2/artifacts
+end_time: 1737481090951
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: d6ff9f016a244449905c691574f134a2
+run_name: resilient-ant-222
+run_uuid: d6ff9f016a244449905c691574f134a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737481090889
+status: 3
+tags: []
+user_id: ajha7

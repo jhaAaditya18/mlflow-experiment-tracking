@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/99547a7e454c4dc38628e73c152be3d0/artifacts
+end_time: 1737480937143
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 99547a7e454c4dc38628e73c152be3d0
+run_name: casual-mole-181
+run_uuid: 99547a7e454c4dc38628e73c152be3d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480937072
+status: 3
+tags: []
+user_id: ajha7

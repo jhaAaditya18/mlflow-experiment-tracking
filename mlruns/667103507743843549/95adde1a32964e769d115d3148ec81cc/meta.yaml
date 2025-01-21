@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/95adde1a32964e769d115d3148ec81cc/artifacts
+end_time: 1737480829581
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 95adde1a32964e769d115d3148ec81cc
+run_name: stylish-jay-191
+run_uuid: 95adde1a32964e769d115d3148ec81cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480829518
+status: 3
+tags: []
+user_id: ajha7

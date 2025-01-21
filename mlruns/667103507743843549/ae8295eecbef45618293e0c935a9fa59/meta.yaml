@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/ae8295eecbef45618293e0c935a9fa59/artifacts
+end_time: 1737480936407
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: ae8295eecbef45618293e0c935a9fa59
+run_name: awesome-dolphin-919
+run_uuid: ae8295eecbef45618293e0c935a9fa59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480936332
+status: 3
+tags: []
+user_id: ajha7

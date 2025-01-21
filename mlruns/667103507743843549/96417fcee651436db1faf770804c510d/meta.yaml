@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/96417fcee651436db1faf770804c510d/artifacts
+end_time: 1737480829037
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 96417fcee651436db1faf770804c510d
+run_name: dashing-fish-117
+run_uuid: 96417fcee651436db1faf770804c510d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480828990
+status: 3
+tags: []
+user_id: ajha7

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549
+creation_time: 1737480823086
+experiment_id: '667103507743843549'
+last_update_time: 1737480823086
+lifecycle_stage: active
+name: breast-cancer-rf-hp

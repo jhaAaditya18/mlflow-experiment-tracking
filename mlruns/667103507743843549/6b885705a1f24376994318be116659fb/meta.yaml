@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/6b885705a1f24376994318be116659fb/artifacts
+end_time: 1737480936495
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 6b885705a1f24376994318be116659fb
+run_name: abundant-mink-345
+run_uuid: 6b885705a1f24376994318be116659fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480936423
+status: 3
+tags: []
+user_id: ajha7

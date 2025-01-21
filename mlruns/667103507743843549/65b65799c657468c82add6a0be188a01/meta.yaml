@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajha7/OneDrive/Desktop/machine_learning/mlflow-experiment-tracking/mlruns/667103507743843549/65b65799c657468c82add6a0be188a01/artifacts
+end_time: 1737480829393
+entry_point_name: ''
+experiment_id: '667103507743843549'
+lifecycle_stage: active
+run_id: 65b65799c657468c82add6a0be188a01
+run_name: adventurous-fish-285
+run_uuid: 65b65799c657468c82add6a0be188a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737480829330
+status: 3
+tags: []
+user_id: ajha7
